@@ -1,7 +1,3 @@
-import React from 'react'
-
 export default function PrivacyPolicy() {
-  return (
-    <main>PrivacyPolicy</main>
-  )
+  return <main>PrivacyPolicy</main>;
 }

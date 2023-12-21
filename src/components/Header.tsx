@@ -2,7 +2,6 @@
 
 import Link from "next/link";
 import Logo from "./Logo";
-import clsx from "clsx";
 import { usePathname } from "next/navigation";
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
